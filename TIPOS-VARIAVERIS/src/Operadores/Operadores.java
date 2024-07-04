@@ -1,4 +1,4 @@
-public class ExemplosOperadores {
+public class Operadores {
     public static void main(String[] args) {
         // Operadores aritméticos
         int a = 10;
